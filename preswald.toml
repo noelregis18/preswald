@@ -8,7 +8,7 @@ entrypoint = "hello.py"
 [branding]
 name = "Preswald Project"
 logo = "images/logo.png"
-favicon = "images/favicon.ico"
+favicon = "images/download.png"
 primaryColor = "#F89613"
 
 [data.sample_csv]
